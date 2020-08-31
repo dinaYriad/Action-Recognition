@@ -7,8 +7,8 @@ This project is an identification of different actions from video clips (a seque
 
  
 
- Classes:
-	Data is classified into 5 classes {Diving, Jumping, Basketball, Tennis, Walking}.
+Classes:
+Data is classified into 5 classes {Diving, Jumping, Basketball, Tennis, Walking}.
   
 Train Data Contains 474 videos.
 Divided into:
